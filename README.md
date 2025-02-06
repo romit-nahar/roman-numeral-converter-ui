@@ -29,17 +29,10 @@ npm install
 ```
 
 3. Set up environment variables:
-- Create `.env` file in project root
-- Add `REACT_APP_API_BASE_URL=http://localhost:8080`
 
 ## Running the Application
 ```bash
 npm start
-```
-
-## Running Tests
-```bash
-npm test
 ```
 
 ## Deployment
